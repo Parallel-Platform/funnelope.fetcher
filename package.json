@@ -1,0 +1,10 @@
+{
+  "name": "funnelope.fetcher",
+  "version": "0.0.0",
+  "description": "funnelope.fetcher",
+  "main": "app.js",
+  "author": {
+    "name": "Namdascious",
+    "email": ""
+  }
+}
